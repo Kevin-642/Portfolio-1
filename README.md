@@ -42,7 +42,7 @@ Une fois cloné et npm installé, vous pourrez compiler et lancer le projet en e
 
 npm run dev
 
-
+------------------------------------------------------------------------------------
 (EN)
 
 # Assignment CEF Portfolio - Kévin PORTAIS
