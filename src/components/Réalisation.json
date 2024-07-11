@@ -1,0 +1,46 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "tag": ["HTML","CSS"],
+            "name": "CV - Kévin PORTAIS",
+            "createDate": "29/04/2024",
+            "description": "Création d'un CV en HTML/CSS.",
+            "image": [
+                {
+                    "src":"src/assets/images/Mon CV.png",
+                    "alt":"CV - Kévin PORTAIS"
+                }
+            ],
+            "link": "https://github.com/Kevin-642/MonCV"
+        },
+        {
+            "id": 2,
+            "tag": ["HTML","JavaScript"],
+            "name": "Espace Commentaires",
+            "createDate": "10/06/2024",
+            "description": "Dynamiser un espace commentaire.",
+            "image": [
+                {
+                "src":"src/assets/images/Espace Commentaires.png",
+                "alt":"Espace Commentaires"
+                }
+            ],
+            "link": "https://github.com/Kevin-642/Dynamiser-un-commentaire"
+        },
+        {
+            "id": 3,
+            "tag": ["Open Office","PDF"],
+            "name": "Cahier des charges 'La Socketterie'",
+            "createDate": "02/05/2024",
+            "description": "Rédaction d'un cahier des charges dans le cadre de la création d'un site web de vente en ligne pour : 'La Socketterie'.",
+            "image": [
+                {
+                    "src":"src/assets/images/'La Socketterie'.png",
+                    "alt":"Cahier des Charges"
+                }
+            ],
+            "link": "https://github.com/Kevin-642/Cahier-des-charges"
+        }
+    ]
+}
