@@ -79,4 +79,3 @@ install npm
 Once cloned and npm installed, you will be able to compile and launch the project by entering the following command in your terminal.
 
 npm run dev
-
